@@ -1,3 +1,27 @@
+# Next
+
+Hi everyone,
+
+Before we knew it, this project has been updated for two years. So we’ve decided to roll out a major update.
+
+Below are the key issues we’ve collected:
+
+·Incorrect installation of ComfyUI and third-party custom nodes (the reason 90% of users fail to use this tool)
+
+·Cumbersome user interaction in certain steps
+
+·Insufficiently detailed user manual
+
+·Failure to work out of the box
+
+We will fully resolve these issues in the upcoming version.
+
+Additionally, we will continue to maintain open-source access and support local deployment as always.
+
+For more suggestions, feel free to contact us at 11132692358@qq.com.
+
+Let’s work together to make it even better!
+
 # Introduction
 This is an addon for using [ComfyUI](https://github.com/comfyanonymous/ComfyUI) in Blender. 
 
