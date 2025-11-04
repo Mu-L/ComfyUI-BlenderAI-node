@@ -1,4 +1,4 @@
-# Next
+# Next 2026.2
 
 Hi everyone,
 
